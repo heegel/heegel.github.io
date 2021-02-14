@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heegel.github.io</id>
     <title>khalil-peng</title>
-    <updated>2021-01-11T19:04:49.272Z</updated>
+    <updated>2021-02-14T18:31:23.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heegel.github.io"/>
     <link rel="self" href="https://heegel.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://heegel.github.io/images/avatar.png</logo>
     <icon>https://heegel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, khalil-peng</rights>
+    <entry>
+        <title type="html"><![CDATA[Types in Programming — Robert L. Constable 节选]]></title>
+        <id>https://heegel.github.io/post/types-in-programming-robert-l-constable-jie-xuan/</id>
+        <link href="https://heegel.github.io/post/types-in-programming-robert-l-constable-jie-xuan/">
+        </link>
+        <updated>2021-02-14T18:26:27.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://heegel.github.io/post-images/1613327192556.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327200423.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327206941.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327214510.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327222580.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327228786.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327250115.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327263017.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327277015.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327284566.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327291020.png" alt="" loading="lazy"><br>
+<img src="https://heegel.github.io/post-images/1613327297098.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://heegel.github.io/post/hello-gridea/</id>
